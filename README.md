@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-virtio/brand/main/social/go-virtio-blk.png" alt="go-virtio/blk" width="720"></p>
+
 # go-virtio/blk
 
 Pure-Go virtio-blk (block device) driver targeting the `go-virtio/common`
